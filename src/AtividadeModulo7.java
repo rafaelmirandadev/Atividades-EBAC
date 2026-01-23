@@ -20,6 +20,7 @@ public class AtividadeModulo7 {
             System.out.println("O maior número é " + n2);
         } else {
             System.out.println("Os números são iguais.");
+
         }
     }
 }
